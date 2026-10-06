@@ -104,6 +104,22 @@ L'analyse montre que les chaînes d'approvisionnement manufacturières africaine
 
 ## 📊 Dashboard Preview
 
+**Full dashboard view / Vue d'ensemble :**
+
+![Dashboard Overview](Power-BI/screenshots/ScreenShot%201.png)
+
+**Interactive world map / Carte du monde interactive :**
+
+![World Map](Power-BI/screenshots/ScreenShot%202.png)
+
+**Sector ranking / Classement des secteurs :**
+
+![Sector Bar Chart](Power-BI/screenshots/ScreenShot%203.png)
+
+**Trade evolution by region / Évolution du commerce par région :**
+
+![Trade Trend](Power-BI/screenshots/ScreenShot%204.png)
+
 The Power BI dashboard includes:
 - Interactive world map (bubble size = import volume)
 - 4 KPI cards (Total Imports, Avg HHI, Avg CR3, Avg LPI)
